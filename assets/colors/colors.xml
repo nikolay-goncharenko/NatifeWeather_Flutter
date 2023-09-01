@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="Blue">#4A90E2</color>
+  <color name="SkyBlue">#5A9FF0</color>
+  <color name="Light">#FFFFFF</color>
+  <color name="Dark">#0000000</color>
+  <color name="SkyBlueTranslucent">#405A9FF0</color>
+  <color name="Foreground">#464646</color>
+</resources>
