@@ -1,18 +1,18 @@
-![[Repository Cover.png]]
+<img src="screenshots/cover.png" align="center">
 
-![Natife_Weather](https://img.shields.io/badge/Natife_Weather-v0.1.0-orange) ![badge-ios](http://img.shields.io/badge/Platform-iOS-silver.svg?logo=apple) ![badge-android](http://img.shields.io/badge/Platform-Android-brightgreen.svg?logo=android) ![Dart](https://img.shields.io/badge/Dart-v3.1.0-blue) ![Flutter](https://img.shields.io/badge/Flutter-v3.13.0-blue) [![RESTful API](https://img.shields.io/badge/RESTful_API-OpenWeatherMap_API-brightgreen.svg)](https://openweathermap.org/api) [![GitHub last commit](https://img.shields.io/github/last-commit/nikolay-goncharenko/NatifeWeather_Flutter)] ![GitHub repo size](https://img.shields.io/github/repo-size/nikolay-goncharenko/NatifeWeather_Flutter)
+![Natife_Weather](https://img.shields.io/badge/Natife_Weather-v0.1.0-orange) ![badge-ios](http://img.shields.io/badge/Platform-iOS-silver.svg?logo=apple) ![badge-android](http://img.shields.io/badge/Platform-Android-brightgreen.svg?logo=android) ![Dart](https://img.shields.io/badge/Dart-v3.1.0-blue) ![Flutter](https://img.shields.io/badge/Flutter-v3.13.0-blue) [![RESTful API](https://img.shields.io/badge/RESTful_API-OpenWeatherMap_API-brightgreen.svg)](https://openweathermap.org/api) ![GitHub last commit](https://img.shields.io/github/last-commit/nikolay-goncharenko/NatifeWeather_Flutter) ![GitHub repo size](https://img.shields.io/github/repo-size/nikolay-goncharenko/NatifeWeather_Flutter)
 
 # Natife Weather - weather app
 
 This is a demo application to view weather forecast for today, the next 48 hours and a week ahead. The application is developed using Flutter framework and uses data from [OpenWeatherMap API](https://openweathermap.org/api).
 
-![[app_design.png]]
+<img src="screenshots/app_design.png" align="center">
 
 ## Demo
 
 |iOS|android|
 |:------------:|:------------:|
-| <video src="screenshots/natife_weather_iOS.mp4"></video> | <video src="screenshots/natife_weather_android.mp4"></video> |
+| <video src="screenshots/natife_weather_iOS.mp4"> | <video src="screenshots/natife_weather_android.mp4"> |
 ## Features
 
 - View current weather with maximum and minimum temperature, average humidity, wind speed and direction.
