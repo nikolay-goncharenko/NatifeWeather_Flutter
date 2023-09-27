@@ -1,0 +1,10 @@
+stages:
+  - sync_to_github
+
+sync_to_github:
+  stage: sync_to_github
+  script:
+    - git remote add github git@github.com:nikolay-goncharenko/NatifeWeather_Flutter.git
+    - git push github --all
+  only:
+    - branches
